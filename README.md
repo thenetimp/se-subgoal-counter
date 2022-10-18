@@ -2,13 +2,13 @@
 
 The Stream Elements Subgoal Counter is a Stream Elements custom widget for tracking subscriber goals and auto incrementing them when met.
 
-To start click on the green button above that is labled "Code" and from the dropdown menu click on "Download Zip".  This will download the latest version of the main branch of this repository containing 4 files.  This readme document, plus 3 files contain what is needed for the widget.
+To start click on the green button above that is labled "Code" and from the dropdown menu click on `Download Zip`.  This will download the latest version of the main branch of this repository containing 4 files.  This readme document, plus 3 files contain what is needed for the widget.
 
 Next go to Stream Elements and log into your account.  Go to `Streaming Tools` and then to `My Overlays`.  You can either put this custom widget in an existing or a new overlay.  That decision is up to you.
 
 In your overlay click on the blue button with the plus sign, and choose `STATIC / CUSTOM` and then `Custom Widget`.  This will create a new custom widget in the left hand side bar and it will have the settings tab selected.
 
-From the settings tab you should see a link "Open Editor".  Click on this link and it will open the editor modal which is where we will put the code you downloaded from the zip file.
+From the settings tab you should see a link `Open Editor`.  Click on this link and it will open the editor modal which is where we will put the code you downloaded from the zip file.
 
 Using a simple text editor application (In windows Notepad is recommended, and for Mac TextEdit is recommended) we will open the files we downloaded.
 
